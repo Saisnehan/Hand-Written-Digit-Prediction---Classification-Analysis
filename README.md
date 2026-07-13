@@ -1,5 +1,5 @@
  
-        
+         s
 
 # HANDWRITTEN DIGIT CLASSIFICATION
 ### LIBRARIES REQUIRED:
