@@ -1,4 +1,4 @@
-          
+           
   
 # HANDWRITTEN DIGIT CLASSIFICATION
 ### LIBRARIES REQUIRED:
