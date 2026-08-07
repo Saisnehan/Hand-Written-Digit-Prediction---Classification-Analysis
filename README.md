@@ -8,7 +8,7 @@
 - Matplotlib
 - Seaborn  
    
-### DATASET:
+### DATASET:   
 - Using In-built 'MNIST' dataset from keras
    
 ### ACCURAY:  
