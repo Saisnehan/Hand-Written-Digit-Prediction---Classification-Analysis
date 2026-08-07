@@ -3,7 +3,7 @@
 # HANDWRITTEN DIGIT CLASSIFICATION
 ### LIBRARIES REQUIRED:
 - Tensorflow
-- Keras
+- Keras  
 - Numpy
 - Matplotlib
 - Seaborn  
