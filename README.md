@@ -11,7 +11,7 @@
 ### DATASET:
 - Using In-built 'MNIST' dataset from keras
 
-### ACCURAY:
+### ACCURAY:  
 - 98% ACCURACY
 
 
