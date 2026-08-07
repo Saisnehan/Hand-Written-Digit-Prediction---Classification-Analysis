@@ -7,7 +7,7 @@
 - Numpy
 - Matplotlib
 - Seaborn  
-
+   
 ### DATASET:
 - Using In-built 'MNIST' dataset from keras
    
