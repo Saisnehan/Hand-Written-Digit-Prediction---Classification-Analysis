@@ -1,10 +1,9 @@
-                   
-      
+                        
 # HANDWRITTEN DIGIT CLASSIFICATION   
 ### LIBRARIES REQUIRED:
 - Tensorflow    
 - Keras  
-- Numpy
+- Numpy  
 - Matplotlib
 - Seaborn    
       
