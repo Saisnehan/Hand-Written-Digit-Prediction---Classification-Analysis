@@ -1,6 +1,6 @@
                         
 # HANDWRITTEN DIGIT CLASSIFICATION   
-### LIBRARIES REQUIRED:
+### LIBRARIES REQUIRED:  
 - Tensorflow    
 - Keras      
 - Numpy      
