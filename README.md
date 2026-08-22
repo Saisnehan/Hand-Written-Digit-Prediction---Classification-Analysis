@@ -3,7 +3,7 @@
 ### LIBRARIES REQUIRED:  
 - Tensorflow    
 - Keras      
-- Numpy      
+- Numpy        
 - Matplotlib    
 - Seaborn    
       
