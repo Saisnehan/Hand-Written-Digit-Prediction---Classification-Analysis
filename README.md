@@ -3,8 +3,8 @@
 ### LIBRARIES REQUIRED:
 - Tensorflow    
 - Keras    
-- Numpy    
-- Matplotlib  
+- Numpy      
+- Matplotlib    
 - Seaborn    
       
 ### DATASET:      
